@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 host = '127.0.0.1'
 port = '4444'
 password = 'obsremote'
